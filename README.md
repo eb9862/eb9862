@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=90)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eb9862)](https://solved.ac/eb9862)
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&fontSize=90)
 
 <!--
 **eb9862/eb9862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
