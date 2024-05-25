@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=90)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eb9862&langs_count=8)](https://github.com/eb9862/github-readme-stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eb9862&langs_count=8)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eb9862)](https://solved.ac/eb9862)
