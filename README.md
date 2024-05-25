@@ -4,7 +4,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=90)
 
   ### 🔭 I’m currently studying in
-  <img src="https://img.shields.io/badge/000000?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+  <img src="https://img.shields.io/badge/42Gyeongsan-000000?style=for-the-badge&logo=000000&logoColor=ffffff"/></a>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eb9862&langs_count=8)
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eb9862)](https://solved.ac/eb9862)
