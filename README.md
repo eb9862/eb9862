@@ -1,7 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=90)
-
 <div align=center>
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=90)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eb9862&langs_count=8)
 
@@ -11,11 +11,10 @@
   ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=90)
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=90)
-
 <!--
 **eb9862/eb9862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
