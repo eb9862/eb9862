@@ -8,9 +8,10 @@
   ### 🌱 I’m currently learning ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
   ### 🤔 I’m interested in ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) ![]()
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eb9862&langs_count=8)
 
+  #
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eb9862&langs_count=8)
+  #
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eb9862)](https://solved.ac/eb9862)
 
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=90)
