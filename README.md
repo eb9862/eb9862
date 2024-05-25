@@ -7,6 +7,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eb9862)](https://solved.ac/eb9862)
 
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=90)
 
 <!--
