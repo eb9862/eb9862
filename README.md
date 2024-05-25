@@ -1,11 +1,7 @@
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=8080FF&height=&section=header" />
-
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eb9862)](https://solved.ac/eb9862)
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=8080FF&height=높이&section=footer" />
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eb9862)](https://solved.ac/eb9862)
 
 <!--
 **eb9862/eb9862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
