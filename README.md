@@ -8,6 +8,8 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eb9862)](https://solved.ac/eb9862)
 
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=90)
 
