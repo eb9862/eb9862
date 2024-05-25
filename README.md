@@ -2,6 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=8080FF&height=&section=header" />
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eb9862)](https://solved.ac/eb9862)
+
 <img src="https://capsule-render.vercel.app/api?type=wave&color=8080FF&height=높이&section=footer" />
 
 <!--
