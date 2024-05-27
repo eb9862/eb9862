@@ -5,7 +5,12 @@
 
   ## 🔭 I’m currently studying in <a href="https://42gyeongsan.kr/ko/main.do" target="_blank"><img src="https://img.shields.io/badge/42Gyeongsan-000000?style=flat-square&logo=42&logoColor=white"/></a>
 
-  ## 🛠️ Tech Stacks ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ## 🛠️ Tech Stacks
+  <div align=center>
+    ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+    ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  </div>
 
   ### 🤔 I’m interested in ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
