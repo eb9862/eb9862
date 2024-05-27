@@ -3,7 +3,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=90)
 
-  ## 🔭 I’m currently studying in <a href="https://42gyeongsan.kr/ko/main.do" target="_blank"><img src="https://img.shields.io/badge/42Gyeongsan-ffffff?style=flat-square&logo=42&logoColor=white"/></a>
+  ## 🔭 I’m currently studying in <a href="https://42gyeongsan.kr/ko/main.do" target="_blank"><img src="https://img.shields.io/badge/42Gyeongsan-ffffff?style=flat-square&logo=42&logoColor=black"/></a>
 
   ## 🛠️ Tech Stacks
   <div align=center>
