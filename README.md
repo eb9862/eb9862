@@ -3,22 +3,29 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=90)
 
-  ## 🔭 I’m currently studying in <a href="https://42gyeongsan.kr/ko/main.do" target="_blank"><img src="https://img.shields.io/badge/42Gyeongsan-ffffff?style=flat-square&logo=42&logoColor=black"/></a>
+  ## 🔭 I’m currently studying in <a href="https://42gyeongsan.kr/ko/main.do" target="_blank"><img src="https://img.shields.io/badge/42Gyeongsan-ffffff?style=for-the-badge&logo=42&logoColor=black"/></a>
 
   ## 🛠️ Tech Stacks
   <div align=center>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
   </div>
 
-  ### 🤔 I’m interested in ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+  ## 🤔 I’m looking for help with ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
-  ###
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eb9862&langs_count=8)
-  ###
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eb9862)](https://solved.ac/eb9862)
-
+  <br>
+  <div align=center>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eb9862&langs_count=8"> <!-- Top lang -->
+  </div>
+  <br>
+  <div align=center>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eb9862"> <!-- Solved.ac프로필 -->
+  </div>
+  
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=90)
 
 </div>
