@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <!-- <a href="https://www.kaggle.com/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> -->
   </div>
-      
+  
   <br>
   
   ### 🛠️ Tools 🛠️
@@ -41,7 +41,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eb9862&langs_count=8"> <!-- Top lang -->
   </div>
   <br>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra"> -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=eb9862&show_icons=true&theme=default"> <!-- [Anurag's GitHub stats] -->
+  </div>
   <br>
   <div align=center>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eb9862"> <!-- Solved.ac프로필 -->
