@@ -41,12 +41,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eb9862&langs_count=8"> <!-- Top lang -->
   </div>
   <br>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=eb9862&show_icons=true&theme=default"> <!-- [Anurag's GitHub stats] -->
-  </div>
-  <br>
   <div align=center>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eb9862"> <!-- Solved.ac프로필 -->
+  </div>
+  <br>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=eb9862&show_icons=true&theme=default"> <!-- [Anurag's GitHub stats] -->
   </div>
   
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=90)
