@@ -20,6 +20,8 @@
   <div align=center>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <a href="https://www.kaggle.com/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+    <br>
+    <!-- <a href="https://azure.microsoft.com/ko-kr" target="_blank"><img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> -->
   </div>
   
   <br>
