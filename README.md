@@ -11,14 +11,14 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-0167ae?style=for-the-badge&logo=&logoColor=white">
   </div>
 
   <br>
 
   ### 🤔 Interest 🧐
   <div align=center>
-    <img src="https://img.shields.io/badge/Java-0167ae?style=for-the-badge&logo=&logoColor=white">
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-ff274d?style=for-the-badge&logo=intellij-idea&logoColor=black">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
     <!-- <img src="https://img.shields.io/badge/docker-1c63ed?style=for-the-badge&logo=docker&logoColor=white"> -->
     <!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
     <!-- <a href="https://www.kaggle.com/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
@@ -34,8 +34,9 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=black">
     <br>
-    <a href="https://colab.google/" target="_blank"><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"></a>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-ff274d?style=for-the-badge&logo=intellij-idea&logoColor=black">
+    <!-- <a href="https://colab.google/" target="_blank"><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"></a> -->
     <!-- <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"> -->
 
   </div>
