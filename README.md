@@ -18,7 +18,7 @@
 
   ### 🤔 Interest 🧐
   <div align=center>
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+    <!-- <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> -->
     <!-- <img src="https://img.shields.io/badge/docker-1c63ed?style=for-the-badge&logo=docker&logoColor=white"> -->
     <!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
     <!-- <a href="https://www.kaggle.com/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
